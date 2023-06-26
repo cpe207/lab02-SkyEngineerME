@@ -7,4 +7,4 @@
 
  <strong>GITHUB PAGE URL : </strong> http://127.0.0.1:5500/index.html
 
-http://127.0.0.1:5500/Homelab3.html (Lab3 v1.0)
+http://127.0.0.1:5500/Explab3.html (Lab3 v1.0)
