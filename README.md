@@ -6,4 +6,5 @@
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/Ea0LeRxESQhFiGTZ4j5p0y0BhZHQ2h_dICj7xA9_t1NPzQ?e=sUkdBA)
 
  <strong>GITHUB PAGE URL : </strong> http://127.0.0.1:5500/index.html
- https://261207-2566-lab03.surge.sh/index.html (Lab3 v1.0)
+
+http://127.0.0.1:5500/Homelab3.html(Lab3 v1.0)
