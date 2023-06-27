@@ -5,6 +5,4 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/Ea0LeRxESQhFiGTZ4j5p0y0BhZHQ2h_dICj7xA9_t1NPzQ?e=sUkdBA)
 
- <strong>GITHUB PAGE URL : </strong> http://127.0.0.1:5500/index.html
-
-http://127.0.0.1:5500/Explab3.html (Lab3 v1.0)
+ <strong>GITHUB PAGE URL : </strong> https://cpe207.github.io/lab02-SkyEngineerME/ (Lab3 v1.0)
